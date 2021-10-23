@@ -26,11 +26,7 @@ export const LoginScreen = () => {
   return (
     <form onSubmit={handleSubmit}>
       <div>
-<<<<<<< HEAD
         <label htmlFor="username">大儿子</label>
-=======
-        <label htmlFor="username">姚东明</label>
->>>>>>> 6ab7befb4e76b571e78d89321997b28530fee938
         <input type="text" id={'username'} />
       </div>
       <div>
