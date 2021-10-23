@@ -26,7 +26,10 @@ export const LoginScreen = () => {
   return (
     <form onSubmit={handleSubmit}>
       <div>
+
         <label htmlFor="username">用户名:安西西</label>
+        <label htmlFor="username">姚东明</label>
+
         <input type="text" id={'username'} />
       </div>
       <div>
