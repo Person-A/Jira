@@ -28,6 +28,7 @@ export const LoginScreen = () => {
       <div>
         <label htmlFor="username">杨鑫雨</label>
         <label htmlFor="username">用户名:马帅</label>
+        <label htmlFor="username">用户名:12132</label>
         <input type="text" id={'username'} />
       </div>
       <div>
